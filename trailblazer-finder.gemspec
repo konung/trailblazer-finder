@@ -16,7 +16,7 @@ Gem::Specification.new do |spec|
   spec.require_paths  = ["lib"]
 
   spec.add_dependency "dry-types", "~> 0.14.1"
-  spec.add_dependency "trailblazer-activity", "~> 0.7.1"
+  spec.add_dependency "trailblazer-activity"
 
   spec.add_development_dependency "activerecord"
   spec.add_development_dependency "bundler"
