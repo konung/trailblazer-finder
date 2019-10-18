@@ -2,6 +2,7 @@
 
 require "forwardable"
 require "trailblazer-activity"
+require "trailblazer-activity-dsl-linear"
 require "dry-types"
 require "ostruct"
 
